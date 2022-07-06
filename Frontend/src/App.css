@@ -1,0 +1,80 @@
+.grid{
+  background-color: #172f3f;
+  border: none;
+  color:white;
+}
+
+.highradius-logo{
+  text-align: center;
+  height: 25;
+}
+
+body{
+  background-color: #31414F;
+}
+
+.box-container {
+  width:95;
+  text-align:center;
+  padding:5px;
+}
+
+.left {
+  float:left;
+  padding-left:10px;
+}
+
+.center {
+  display: inline-block;
+}
+
+.right {
+  float:right;
+  padding-right:10px;
+}
+
+.highradius-logo{
+  position: relative;
+  left: 25%;
+}
+
+.footer{
+  padding-top: 30px;
+  color: white;
+  text-align: center;
+}
+
+a{
+  color: #0D6EFD;
+}
+
+.hrclogo{
+  position: relative;
+  left: 25%;
+  
+}
+
+.header_text{
+  color: white;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  font-size: 25px;
+}
+
+.search-box{
+  border-radius: 10px;
+  border: 2px solid;
+  width: 50ch;
+}
+
+.Button{
+  border-radius: 10px;
+  border: 2px solid;
+  width: 10ch;
+  color:black;
+}
+
+.pagination{
+  float: right;
+}
